@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.element {
+  width: max-content;
+  margin-bottom: 1rem;
+  background-color: red;
+}
